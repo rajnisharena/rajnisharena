@@ -1,17 +1,17 @@
 ## 👋 Hi there, I'm Rajnish Sharma! an expat living in Doha, Qatar. 🇶🇦
-### Front-End Developer at Ministry of Interior (MOI) Doha Qatar 
-- 🫶 I’m interested in HTML, CSS, Javascript, react, nodejs, ...
----
+### Front-End Developer / Designer at Ministry of Interior (MOI) Doha Qatar 
+#### 🫶 I’m interested in HTML, CSS, Javascript, react, nodejs, ...
+
 
 
 <a href="https://www.linkedin.com/in/rajnish-sharma-front-end-developer/">![Rajnish](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Rajnish40783218">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  
  ## 📫 How to reach me ...
- ---
+
  🔗 I have a website at https://rajnish-portfolio.vercel.app/ where all my recent brush-up work are located! You can reach me anywhere over there!
 ## 📝 Latest Blog Posts
----
+
 This is my latest posts on hashnode [learn-react-basics](https://rajnisharena.hashnode.dev/learn-react-basics)
 
 ### My Blog
