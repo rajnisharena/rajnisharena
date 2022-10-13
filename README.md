@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Rajnish Sharma! an expat living in Doha, Qatar. 🇶🇦
-### Front-End Developer / Designer at Ministry of Interior (MOI) Doha Qatar 
+### Front-End Developer at Ministry of Interior (MOI) Doha Qatar 
 #### 🫶 I’m interested in HTML, CSS, Javascript, react, nodejs, ...
 
 
