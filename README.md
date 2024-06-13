@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Rajnish Sharma! an expat living in Doha, Qatar. 🇶🇦
 ### Front-End Developer at Ministry of Interior (MOI) Doha Qatar 
 #### 🫶 I’m interested in HTML, CSS, Javascript, Angular, react, nodejs, C, C++, adobe suite:  Photoshop, Illustrator, Figma, XD...
- 
+ ##### A few HTML projects are in the repository to to refresh my practice for the full stack developer course.
 
 
 <a href="https://www.linkedin.com/in/rajnish-sharma-front-end-developer/">![Rajnish](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
