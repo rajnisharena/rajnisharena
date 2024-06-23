@@ -9,7 +9,7 @@
  
  ## 📫 How to reach me ...
 
- 🔗 I have a website at https://rajnish-portfolio.vercel.app/ where all my recent brush-up work are located! You can reach me anywhere over there!
+ 🔗 I have a website at https://acceptable-glove.surge.sh where all my recent brush-up work are located! You can reach me anywhere over there!
 ## 📝 Latest Blog Posts
 
 This is my latest posts on hashnode [learn-react-basics](https://rajnisharena.hashnode.dev/learn-react-basics)
