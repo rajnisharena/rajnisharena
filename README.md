@@ -10,8 +10,9 @@
  ## 📫 How to reach me ...
 
  🔗 I have a website at https://acceptable-glove.surge.sh where all my recent brush-up work are located! You can reach me anywhere over there!
+  🔗 https://6677c612123d5b5ccd7912e4--glistening-malasada-21b05e.netlify.app/
 ## 📝 Latest Blog Posts
- 🔗 https://6677c612123d5b5ccd7912e4--glistening-malasada-21b05e.netlify.app/
+
 This is my latest posts on hashnode [learn-react-basics](https://rajnisharena.hashnode.dev/learn-react-basics)
 
 ### My Blog
