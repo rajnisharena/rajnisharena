@@ -11,7 +11,7 @@
 
  🔗 I have a website at https://acceptable-glove.surge.sh where all my recent brush-up work are located! You can reach me anywhere over there!
  
-  🔗 https://6677c612123d5b5ccd7912e4--glistening-malasada-21b05e.netlify.app/
+  🔗 https://tinyurl.com/frontend-rajnish
   
 ## 📝 Latest Blog Posts
 
