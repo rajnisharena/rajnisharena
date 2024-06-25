@@ -12,6 +12,8 @@
  🔗 I have a website at https://acceptable-glove.surge.sh where all my recent brush-up work are located! You can reach me anywhere over there!
  
   🔗 https://tinyurl.com/frontend-rajnish
+
+ 🔗  https://profile.indeed.com/p/rajnishs-pm1kzm4
   
 ## 📝 Latest Blog Posts
 
